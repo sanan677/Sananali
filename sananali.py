@@ -83,7 +83,7 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
           ♥️♥️♥️ ßєş┼ ๏F LЦcK  ♥️♥️♥️
       ♥️♥️ rąM乙ąЙ MЦßąrąK ┼๏ єVєrY ß๏đY  ♥️♥️
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92Sanan kamboh
+\033[1;96mAuthor  \033[1;93m: \033[1;92 Sanan kamboh
 \033[1;96mInstagram \033[1;93m: \033[1: Sanan__786
 \033[1;96mFacebook  \033[1;93m: \033[1: Sanan Àli
 \033[1;96mGithub \033[1;93m: \033[1;92https://github.com/sanan677
@@ -131,7 +131,7 @@ print  """\033[1;91m
                      ▇▇▇◣╲▇╱◢▇▇▇
                      ▇▇▇▇◣▇◢▇▇▇▇
                    WhatsApp : 03468802167
-\033[1;96mAuthor  \033[1;93m: \033[1;92 3468802167
+\033[1;96mAuthor  \033[1;93m: \033[1;92 Sanan Kamboh
 \033[1;96mInstagram \033[1;93m: \033[1;92Sanan__786
 \033[1;96mFacebook  \033[1;93m: \033[1;92m Sanan Àli
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/sanan677
